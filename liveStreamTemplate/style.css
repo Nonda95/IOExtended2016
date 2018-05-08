@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 
-a, abbr, address, article, aside, audio, b, blockquote, body, canvas, 
+a, abbr, address, article, aside, audio, b, blockquote, body, canvas,
 caption, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset,
 figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup,
-html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, 
-object, ol, p, pre, q, samp, section, small, span, strong, sub, summary, 
+html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav,
+object, ol, p, pre, q, samp, section, small, span, strong, sub, summary,
 sup, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video {
   margin: 0;
   padding: 0;
@@ -17,7 +17,7 @@ sup, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video {
   vertical-align: baseline;
 }
 
-article, aside, canvas, details, figcaption, figure, footer, header, 
+article, aside, canvas, details, figcaption, figure, footer, header,
 hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -57,7 +57,7 @@ table {
   left: 0px;
   width: 100%;
   height: 100%;
-  background: #26C6DA;
+  background: #4768FD;
 }
 table tr td.top {
   height: 100px;
@@ -66,11 +66,13 @@ table tr td.top {
 
 table tr td.top .inner {
   margin: 0 auto;
+  background: #ffffff;
 }
 
 table tr td.top img {
   height: 80px;
   width: auto;
+  margin: 0px 20px;
 }
 
 table tr td.top img.gdg-logo {
